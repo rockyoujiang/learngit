@@ -26,7 +26,7 @@
  *
  */
 
- /*this is a test.*/
+ /*this is a git test.*/
  
 /* Standard includes. */
 #include <stdlib.h>
